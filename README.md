@@ -1,4 +1,4 @@
-# Laravel Nuxt Vuejs Running PHP-fpm 7.4
+# Laravel React Running PHP-fpm 7.4
 
 ## Development Build Setup
 
